@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Envelope / Love Letter Emblem -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M24,34 L84,34 C87.3,34 90,36.7 90,40 L90,68 C90,71.3 87.3,74 84,74 L24,74 C20.7,74 18,71.3 18,68 L18,40 C18,36.7 20,34 24,34 Z" />
+    <path
+        android:fillColor="#141011"
+        android:pathData="M20,36 L54,58 L88,36 Z" />
+    <path
+        android:fillColor="#E6C665"
+        android:pathData="M48,50 C48,46 51,43 54,46 C57,43 60,46 60,50 C60,55 54,59 54,59 C54,59 48,55 48,50 Z" />
+</vector>
